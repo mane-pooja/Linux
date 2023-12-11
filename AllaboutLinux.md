@@ -1,4 +1,4 @@
-# DAY-20 | LINUX For DevOps Engineers
+## LINUX For DevOps Engineers
 
 Linux is an open-source operating system kernel that serves as the foundation for various Linux-based operating systems (distributions).
 Linux is known for its stability, security, and flexibility. It is based on the Unix operating system and follows the Unix philosophy of small, modular, and reusable components. Linux is highly customizable and can be tailored to suit various needs, ranging from desktop computers and servers to embedded systems and supercomputers.
@@ -686,7 +686,3 @@ export VARIABLE_NAME=value`
 
 100. htop: Interactive process viewer and system monitor.
      Example: `htop`
-
-Please note that the examples provided assume a general usage and may require modifications based on your specific system and file paths.
-
-These commands cover a wide range of tasks and utilities in Linux. Feel free to explore their options and further usage by referring to their respective man pages or online documentation.
